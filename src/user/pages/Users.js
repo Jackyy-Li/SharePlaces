@@ -2,7 +2,7 @@ import React from 'react';
 
 import UsersList from '../components/UsersList';
 
-const Users = () => {
+const Users = () => {   //Later, this will be stateful component
   const USERS = [
     {
       id: 'u1',
